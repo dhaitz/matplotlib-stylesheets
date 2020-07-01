@@ -2,7 +2,9 @@
 
 All based on the `seaborn-darkgrid` style. See [here](https://matplotlib.org/users/style_sheets.html) for how to install styles or simply use the URL, e.g. 
 
-    plt.style.use('https://github.com/dhaitz/matplotlib-stylesheets/raw/master/pitayasmoothie_light.mplstyle')
+```python
+plt.style.use('https://github.com/dhaitz/matplotlib-stylesheets/raw/master/pitayasmoothie_light.mplstyle')
+```
 
 Code for demo images is [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html).  
 Feel free to propose changes via PR.
@@ -26,7 +28,7 @@ Font: Gotham
 ## Other great styles
 - ["Cyberpunk style"](https://github.com/dhaitz/mplcyberpunk)
 
-![mplcyberpunk](https://raw.githubusercontent.com/dhaitz/mplcyberpunk/master/img/colormap.png "mplcyberpunk)
+![mplcyberpunk](https://raw.githubusercontent.com/dhaitz/mplcyberpunk/master/img/colormap.png "mplcyberpunk")
 
 - [Official style sheets reference](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html)
 - [Matplotlib Style Gallery by Tony S Yu](https://tonysyu.github.io/raw_content/matplotlib-style-gallery/gallery.html)
