@@ -3,7 +3,7 @@
 All based on the `seaborn-darkgrid` style. See [here](https://matplotlib.org/users/style_sheets.html) for how to install styles or simply use the URL, e.g. 
 
 ```python
-plt.style.use('https://github.com/dhaitz/matplotlib-stylesheets/raw/master/pitayasmoothie_light.mplstyle')
+plt.style.use('https://github.com/dhaitz/matplotlib-stylesheets/raw/master/pitayasmoothie-light.mplstyle')
 ```
 
 Code for demo images is [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html). 
