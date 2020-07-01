@@ -31,6 +31,6 @@ grid.color: 2A3459
 font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
 axes.prop_cycle: cycler('color', ['18c0c4', 'f62196', 'A267F5', 'f3907e', 'ffe46b', 'fefeff'])
 image.cmap: RdPu
-figure.facecolor: fefeff
-savefig.facecolor: fefeff
-axes.facecolor: fefeff
+figure.facecolor: 212946
+axes.facecolor: 212946
+savefig.facecolor: 212946
